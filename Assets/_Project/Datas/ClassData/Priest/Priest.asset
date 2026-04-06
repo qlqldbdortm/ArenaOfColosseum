@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d570e15a2d78324da3763cd8dff19ed, type: 3}
+  m_Name: Priest
+  m_EditorClassIdentifier: 
+  characterClass: 2304
+  classIcon: {fileID: 21300000, guid: acafebad9c42b014fa2bb10173bb6898, type: 3}
+  className: Priest
+  maxHp: 100
+  maxStamina: 20
+  moveSpeed: 2.5
+  sprintSpeed: 3.5
+  normalAttackData: {fileID: 11400000, guid: c37075ae937b9e0459e5ec32f1cab247, type: 2}
+  hardAttackData: {fileID: 11400000, guid: 7500c1415cacd0644a1276ffcbe245c2, type: 2}
+  skillDataSlots:
+  - {fileID: 11400000, guid: 33f6ee1e1269b0046a8401d7b01e21d3, type: 2}
+  - {fileID: 11400000, guid: d7d78f5dfc3db7d4aa5c9b80965cdbed, type: 2}
+  defenseData: {fileID: 0}
+  dashData: {fileID: 0}

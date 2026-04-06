@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352d64148c85c9b4f86d3b8233837c7c, type: 3}
+  m_Name: Priest Hard Attack
+  m_EditorClassIdentifier: 
+  skillIcon: {fileID: 21300000, guid: 562fa9b78a51a1141ab13785b4548cb9, type: 3}
+  skillName: New Skill
+  skillDescription: New Skill Description
+  power: 10
+  cost: 3
+  skillCoolTime: 0
+  behaviourState: 30
+  prefabDelay: 0.25
+  skillPrefab: {fileID: 399840211361552785, guid: 7d56ed120a42056449852d2078b73ec0,
+    type: 3}
+  targetType: 2

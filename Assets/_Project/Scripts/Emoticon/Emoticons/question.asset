@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ad9ba1c7bb050247a3a44432cc4baf8, type: 3}
+  m_Name: question
+  m_EditorClassIdentifier: 
+  emoticonId: c63cceeb-960d-43de-a9b6-e23487ffba10
+  emoticonName: "\uC5B4\uB5A1\uD558\uC9C0"
+  icon: {fileID: 21300000, guid: b5706e446b4c94841ba6082fd51ec0c3, type: 3}

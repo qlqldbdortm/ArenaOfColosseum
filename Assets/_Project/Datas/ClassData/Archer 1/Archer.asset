@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d570e15a2d78324da3763cd8dff19ed, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  characterClass: 512
+  classIcon: {fileID: 21300000, guid: dfb71c146fd7e48418962f8a8b92d35f, type: 3}
+  className: Archer
+  maxHp: 100
+  maxStamina: 20
+  moveSpeed: 2.5
+  sprintSpeed: 3.5
+  normalAttackData: {fileID: 11400000, guid: 21906053f685ea24481cc1cc19031243, type: 2}
+  hardAttackData: {fileID: 11400000, guid: 59661db72a54da3479f9f4cfe796eca4, type: 2}
+  skillDataSlots:
+  - {fileID: 11400000, guid: bdb32156b6f52f3459991814f30011fd, type: 2}
+  - {fileID: 11400000, guid: 186279390cdbca442b914b97db569186, type: 2}
+  defenseData: {fileID: 11400000, guid: 149bc18ec00bb434283b19150d191dae, type: 2}
+  dashData: {fileID: 11400000, guid: 99f6eda48407eea43810b6ef9eabad32, type: 2}

@@ -1,0 +1,32 @@
+Wizard Ice
+- Normal Attack : 고드름 날리기
+- Hard Attack : 더 빠른 고드름 날리기
+- Skill 1 : 플레이어 기준 전면 부채꼴 모양으로 얼음 생성
+- Skill 2 : 플레이어 정면 기준 원형으로 얼음 생성
+- Skill 3 : 플레이어 정면 지속적인 딜을 하는 장판 생성(매커니즘 변경할수도?)
+- Skill 4 : 플레이어 정면으로 서서히 전진하는 구체 발사
+
+Wizard Fire
+- Normal Attack : 불덩이 날리기
+- Hard Attack: 화염방사
+- Skill 1 : 제자리에 몇 초간 유지되는 불을 방화한다.
+- Skill 2 : 정면에 오래 지속되는 장벽 모양으로 넓게 방화한다. 
+- Skill 3 : 정면에 짧지만 강력한 화염 토네이도를 방화한다.
+- Skill 4 : 자폭
+
+
+Warrior
+- Normal Attack : 플레이어 정면으로 휘두르는 공격
+- Hard Attack : 플레이어 정면으로 일정거리를 날라가는 검기 방출
+- Skill 1 : 주변을 넓게 휘두른다 (슬로우 효과 가능하면 O, 안되면 말고)
+- Skill 2 : 플레이어 정면을 향해 점프하여 주변 범위에 공격 
+- Skill 3 : 플레이어 주변에 방어막 이펙트 생성(스킬 지속시간 대미지 감소 혹은 무시)
+- Skill 4 : 조금 느리지만 크고 뚜렷한 검기를 날린다
+
+Archer
+- Normal Attack : 일반 화살 발사
+- Hard Attack : 강화 화살 발사 (대미지 추가)
+- Skill 1 : 연사
+- Skill 2 : 크고 아름다운 화살
+- Skill 3 : 뒤로 점프 (공격 X)
+- Skill 4 : 넓게 동시 발사

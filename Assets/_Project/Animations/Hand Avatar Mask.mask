@@ -1,0 +1,1679 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hand Avatar Mask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Fem_Armor_001_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_001_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_001_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_001_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_002_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_002_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_002_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_002_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_002_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_003_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_003_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_003_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_003_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_003_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_004_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_004_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_004_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_004_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_004_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_005_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_005_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_005_Chest_Cloth
+    m_Weight: 1
+  - m_Path: Fem_Armor_005_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_005_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_005_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_006_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_006_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_006_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_006_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_006_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_007_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_007_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_007_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Fem_Armor_007_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_007_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_007_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_008_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_008_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_008_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_008_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_008_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_009_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_009_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_009_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Fem_Armor_009_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_009_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_009_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_010_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_010_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_010_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Fem_Armor_010_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_010_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_010_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_011_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_011_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_011_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Fem_Armor_011_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_011_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_011_Waist
+    m_Weight: 1
+  - m_Path: Fem_Armor_012_Arm
+    m_Weight: 1
+  - m_Path: Fem_Armor_012_Chest
+    m_Weight: 1
+  - m_Path: Fem_Armor_012_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Fem_Armor_012_Head
+    m_Weight: 1
+  - m_Path: Fem_Armor_012_Leg
+    m_Weight: 1
+  - m_Path: Fem_Armor_012_Waist
+    m_Weight: 1
+  - m_Path: Female_Body_Arm
+    m_Weight: 1
+  - m_Path: Female_Body_Chest
+    m_Weight: 1
+  - m_Path: Female_Body_Leg
+    m_Weight: 1
+  - m_Path: Female_Body_Nakid_Chest
+    m_Weight: 1
+  - m_Path: Female_Body_Nakid_Leg
+    m_Weight: 1
+  - m_Path: Female_Face_01
+    m_Weight: 1
+  - m_Path: Female_Face_02
+    m_Weight: 1
+  - m_Path: Female_Face_03
+    m_Weight: 1
+  - m_Path: Hair_01
+    m_Weight: 1
+  - m_Path: Hair_02
+    m_Weight: 1
+  - m_Path: Hair_03
+    m_Weight: 1
+  - m_Path: Hair_04
+    m_Weight: 1
+  - m_Path: Hair_05
+    m_Weight: 1
+  - m_Path: Hair_06
+    m_Weight: 1
+  - m_Path: Hair_07
+    m_Weight: 1
+  - m_Path: Hair_08
+    m_Weight: 1
+  - m_Path: Hair_09
+    m_Weight: 1
+  - m_Path: Hair_10
+    m_Weight: 1
+  - m_Path: Hair_11
+    m_Weight: 1
+  - m_Path: Hair_12
+    m_Weight: 1
+  - m_Path: Hair_13
+    m_Weight: 1
+  - m_Path: Male_Armor_001_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_001_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_001_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_001_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_002_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_002_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_002_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_002_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_002_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_003_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_003_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_003_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_003_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_003_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_004_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_004_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_004_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_004_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_004_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_005_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_005_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_005_Chest_Cloth
+    m_Weight: 1
+  - m_Path: Male_Armor_005_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_005_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_005_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_006_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_006_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_006_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_006_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_006_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_007_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_007_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_007_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Male_Armor_007_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_007_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_007_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_008_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_008_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_008_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_008_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_008_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_009_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_009_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_009_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Male_Armor_009_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_009_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_009_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_010_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_010_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_010_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Male_Armor_010_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_010_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_010_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_011_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_011_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_011_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Male_Armor_011_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_011_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_011_Waist
+    m_Weight: 1
+  - m_Path: Male_Armor_012_Arm
+    m_Weight: 1
+  - m_Path: Male_Armor_012_Chest
+    m_Weight: 1
+  - m_Path: Male_Armor_012_Chest_Cloak
+    m_Weight: 1
+  - m_Path: Male_Armor_012_Head
+    m_Weight: 1
+  - m_Path: Male_Armor_012_Leg
+    m_Weight: 1
+  - m_Path: Male_Armor_012_Waist
+    m_Weight: 1
+  - m_Path: Male_Body_Arm
+    m_Weight: 1
+  - m_Path: Male_Body_Chest
+    m_Weight: 1
+  - m_Path: Male_Body_Leg
+    m_Weight: 1
+  - m_Path: Male_Body_Nakid_Leg
+    m_Weight: 1
+  - m_Path: Male_Face_01
+    m_Weight: 1
+  - m_Path: Male_Face_02
+    m_Weight: 1
+  - m_Path: Male_Face_03
+    m_Weight: 1
+  - m_Path: Male_FacialHair_01
+    m_Weight: 1
+  - m_Path: Male_FacialHair_02
+    m_Weight: 1
+  - m_Path: Male_FacialHair_03
+    m_Weight: 1
+  - m_Path: Male_FacialHair_04
+    m_Weight: 1
+  - m_Path: Male_FacialHair_05
+    m_Weight: 1
+  - m_Path: Male_FacialHair_06
+    m_Weight: 1
+  - m_Path: Male_FacialHair_07
+    m_Weight: 1
+  - m_Path: Male_FacialHair_08
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Leg_Crotch_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Leg_Crotch_L/Leg_Crotch_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Leg_Crotch_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Leg_Crotch_R/Leg_Crotch_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Osiri_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Osiri_L/Osiri_L.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Osiri_L/Osiri_L.001/Osiri_L.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Osiri_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Osiri_R/Osiri_R.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Osiri_R/Osiri_R.001/Osiri_R.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/bust_01_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/bust_01_L/bust_02_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/bust_01_L/bust_02_L/bust_02_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/bust_01_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/bust_01_R/bust_02_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/bust_01_R/bust_02_R/bust_02_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/Neck
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/Neck/Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_L/eye_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/Neck/Head/eye_R/eye_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/ShieldTarget_Back
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/ShieldTarget_Back/ShieldTarget_Back_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/forarm_Twist_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/forarm_Twist_L/forarm_Twist_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_index_proximal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_index_proximal_L/finger_index_intermediate_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_index_proximal_L/finger_index_intermediate_L/finger_index_distal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_index_proximal_L/finger_index_intermediate_L/finger_index_distal_L/finger_index_distal_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_little_proximal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_little_proximal_L/finger_little_intermediate_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_little_proximal_L/finger_little_intermediate_L/finger_little_distal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_little_proximal_L/finger_little_intermediate_L/finger_little_distal_L/finger_little_distal_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_middle_proximal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_middle_proximal_L/finger_middle_intermediate_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_middle_proximal_L/finger_middle_intermediate_L/finger_middle_distal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_middle_proximal_L/finger_middle_intermediate_L/finger_middle_distal_L/finger_middle_distal_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_ring_proximal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_ring_proximal_L/finger_ring_intermediate_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_ring_proximal_L/finger_ring_intermediate_L/finger_ring_distal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_ring_proximal_L/finger_ring_intermediate_L/finger_ring_distal_L/finger_ring_distal_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_thumbs_proximal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_thumbs_proximal_L/finger_thumbs_intermediate_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_thumbs_proximal_L/finger_thumbs_intermediate_L/finger_thumbs_distal_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/forearm_L/hand_L/finger_thumbs_proximal_L/finger_thumbs_intermediate_L/finger_thumbs_distal_L/finger_thumbs_distal_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/z_elbow_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/Arm_L/z_elbow_L/z_elbow_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/shoulder_Twist_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_L/shoulder_Twist_L/shoulder_Twist_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/forarm_Twist_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/forarm_Twist_R/forarm_Twist_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_index_proximal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_index_proximal_R/finger_index_intermediate_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_index_proximal_R/finger_index_intermediate_R/finger_index_distal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_index_proximal_R/finger_index_intermediate_R/finger_index_distal_R/finger_index_distal_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_little_proximal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_little_proximal_R/finger_little_intermediate_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_little_proximal_R/finger_little_intermediate_R/finger_little_distal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_little_proximal_R/finger_little_intermediate_R/finger_little_distal_R/finger_little_distal_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_middle_proximal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_middle_proximal_R/finger_middle_intermediate_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_middle_proximal_R/finger_middle_intermediate_R/finger_middle_distal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_middle_proximal_R/finger_middle_intermediate_R/finger_middle_distal_R/finger_middle_distal_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_ring_proximal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_ring_proximal_R/finger_ring_intermediate_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_ring_proximal_R/finger_ring_intermediate_R/finger_ring_distal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_ring_proximal_R/finger_ring_intermediate_R/finger_ring_distal_R/finger_ring_distal_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_thumbs_proximal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_thumbs_proximal_R/finger_thumbs_intermediate_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_thumbs_proximal_R/finger_thumbs_intermediate_R/finger_thumbs_distal_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/forearm_R/hand_R/finger_thumbs_proximal_R/finger_thumbs_intermediate_R/finger_thumbs_distal_R/finger_thumbs_distal_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/z_elbow_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/Arm_R/z_elbow_R/z_elbow_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/shoulder_Twist_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/shoulder_R/shoulder_Twist_R/shoulder_Twist_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/WeaponTarget_Back
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Spine/Chest/UpperChest/WeaponTarget_Back/WeaponTarget_Back_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/TighBone_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/TighBone_L/TighBone_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/TighBone_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/TighBone_R/TighBone_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L/Lower_Leg_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toes_L/Toes_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L/z_knee_L
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_L/z_knee_L/z_knee_L_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R/Lower_Leg_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toes_R/Toes_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R/z_knee_R
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Body/root/Hips/Upper_Leg_R/z_knee_R/z_knee_R_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Top
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Back_Root/Hair_Top/Hair_Top_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_01/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002/Hair_Tail_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002/Hair_Tail_Center.003/Hair_Tail_Center.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002/Hair_Tail_Center.003/Hair_Tail_Center.004/Hair_Tail_Center.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002/Hair_Tail_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002/Hair_Tail_Left.003/Hair_Tail_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002/Hair_Tail_Left.003/Hair_Tail_Left.004/Hair_Tail_Left.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Plus.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Plus.001/Hair_Tail_Plus.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Plus.001/Hair_Tail_Plus.002/Hair_Tail_Plus.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002/Hair_Tail_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002/Hair_Tail_Right.003/Hair_Tail_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002/Hair_Tail_Right.003/Hair_Tail_Right.004/Hair_Tail_Right.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_02/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Top.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Top.001/Hair_Back_Top.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Top.001/Hair_Back_Top.002/Hair_Back_Top.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_Back_Top.001/Hair_Back_Top.002/Hair_Back_Top.003/Hair_Back_Top.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.004/Hair_Side_Left.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_03/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.004/Hair_Side_Right.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_04/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root/Hair_Top_Back.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root/Hair_Top_Back.001/Hair_Top_Back.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root/Hair_Top_Back.001/Hair_Top_Back.002/Hair_Top_Back.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root/Hair_Top_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root/Hair_Top_Left.002/Hair_Top_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Back_Root/Hair_Top_Left.002/Hair_Top_Left.003/Hair_Top_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Top_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Top_Right.002/Hair_Top_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_05/Constraint_Head/Hair_Side_Root/Hair_Top_Right.002/Hair_Top_Right.003/Hair_Top_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_06/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005/Hair_Back_Center.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.004/Hair_Back_Left.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.004/Hair_Back_Left.005/Hair_Back_Left.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.004/Hair_Back_Right.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.004/Hair_Back_Right.005/Hair_Back_Right.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.004/Hair_BackSide_Left.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.004/Hair_BackSide_Left.005/Hair_BackSide_Left.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.004/Hair_BackSide_Right.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.004/Hair_BackSide_Right.005/Hair_BackSide_Right.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_07/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005/Hair_Back_Center.006
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005/Hair_Back_Center.006/Hair_Back_Center.006_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.004/Hair_Side_Left.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.004/Hair_Side_Left.005/Hair_Side_Left.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.004/Hair_Side_Right.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_08/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.004/Hair_Side_Right.005/Hair_Side_Right.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.004/Hair_Back_Center.005/Hair_Back_Center.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.004/Hair_Back_Left.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.004/Hair_Back_Left.005/Hair_Back_Left.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.004/Hair_Back_Right.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.004/Hair_Back_Right.005/Hair_Back_Right.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.004/Hair_BackSide_Left.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.004/Hair_BackSide_Right.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Left.001/Hair_Side_Long_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Left.001/Hair_Side_Long_Left.002/Hair_Side_Long_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Left.001/Hair_Side_Long_Left.002/Hair_Side_Long_Left.003/Hair_Side_Long_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Left.001/Hair_Side_Long_Left.002/Hair_Side_Long_Left.003/Hair_Side_Long_Left.004/Hair_Side_Long_Left.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Left.001/Hair_Side_Long_Left.002/Hair_Side_Long_Left.003/Hair_Side_Long_Left.004/Hair_Side_Long_Left.005/Hair_Side_Long_Left.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Right.001/Hair_Side_Long_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Right.001/Hair_Side_Long_Right.002/Hair_Side_Long_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Right.001/Hair_Side_Long_Right.002/Hair_Side_Long_Right.003/Hair_Side_Long_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Right.001/Hair_Side_Long_Right.002/Hair_Side_Long_Right.003/Hair_Side_Long_Right.004/Hair_Side_Long_Right.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Long_Right.001/Hair_Side_Long_Right.002/Hair_Side_Long_Right.003/Hair_Side_Long_Right.004/Hair_Side_Long_Right.005/Hair_Side_Long_Right.005_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_09/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002/Hair_Tail_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002/Hair_Tail_Center.003/Hair_Tail_Center.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Center.001/Hair_Tail_Center.002/Hair_Tail_Center.003/Hair_Tail_Center.004/Hair_Tail_Center.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002/Hair_Tail_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002/Hair_Tail_Left.003/Hair_Tail_Left.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Left.001/Hair_Tail_Left.002/Hair_Tail_Left.003/Hair_Tail_Left.004/Hair_Tail_Left.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002/Hair_Tail_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002/Hair_Tail_Right.003/Hair_Tail_Right.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_Back_Root/Hair_Tail_Right.001/Hair_Tail_Right.002/Hair_Tail_Right.003/Hair_Tail_Right.004/Hair_Tail_Right.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front01.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front01.001/Hair_front01.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front01.001/Hair_front01.002/Hair_front01.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front01.001/Hair_front01.002/Hair_front01.003/Hair_front01.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front01.001/Hair_front01.002/Hair_front01.003/Hair_front01.004/Hair_front01.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front02.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front02.001/Hair_front02.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front02.001/Hair_front02.002/Hair_front02.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front02.001/Hair_front02.002/Hair_front02.003/Hair_front02.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_10/Constraint_Head/Hair_front_Root/Hair_front02.001/Hair_front02.002/Hair_front02.003/Hair_front02.004/Hair_front02.004_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Top
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Back_Root/Hair_Top/Hair_Top_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_11/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.002/Hair_Back_Center.003/Hair_Back_Center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.002/Hair_Back_Left.003/Hair_Back_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.002/Hair_Back_Right.003/Hair_Back_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.002/Hair_BackSide_Left.003/Hair_BackSide_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.002/Hair_BackSide_Right.003/Hair_BackSide_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002/Hair_Tail.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002/Hair_Tail.003/Hair_Tail.004
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002/Hair_Tail.003/Hair_Tail.004/Hair_Tail.005
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002/Hair_Tail.003/Hair_Tail.004/Hair_Tail.005/Hair_Tail.006
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002/Hair_Tail.003/Hair_Tail.004/Hair_Tail.005/Hair_Tail.006/Hair_Tail.007
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Back_Root/Hair_Tail.001/Hair_Tail.002/Hair_Tail.003/Hair_Tail.004/Hair_Tail.005/Hair_Tail.006/Hair_Tail.007/Hair_Tail.007_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_center.001/Hair_front_center.002/Hair_front_center.003/Hair_front_center.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.003/Hair_front_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.003/Hair_front_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_Top.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_Top.001/Hair_Top.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_front_Root/Hair_Top.001/Hair_Top.002/Hair_Top.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Left.001/Hair_Side_Left.002/Hair_Side_Left.003/Hair_Side_Left.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_12/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.003/Hair_Side_Right.003_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Back_Center.001/Hair_Back_Center.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Back_Left.001/Hair_Back_Left.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Back_Right.001/Hair_Back_Right.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_BackSide_Left.001/Hair_BackSide_Left.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_BackSide_Right.001/Hair_BackSide_Right.001_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Top_Back.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Top_Back.001/Hair_Top_Back.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Back_Root/Hair_Top_Back.001/Hair_Top_Back.002/Hair_Top_Back.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root/Hair_front_Left.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root/Hair_front_Left.001/Hair_front_Left.002/Hair_front_Left.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root/Hair_front_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_front_Root/Hair_front_Right.001/Hair_front_Right.002/Hair_front_Right.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_side_Left_01.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_side_Left_01.001/Hair_side_Left_01.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_side_Left_01.001/Hair_side_Left_01.002/Hair_side_Left_01.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Side_Left_02.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Side_Left_02.001/Hair_Side_Left_02.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Side_Left_02.001/Hair_Side_Left_02.002/Hair_Side_Left_02.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Side_Right.001/Hair_Side_Right.002/Hair_Side_Right.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Top_front.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Top_front.001/Hair_Top_front.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Top_front.001/Hair_Top_front.002/Hair_Top_front.002_end
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Top_mid.001
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Top_mid.001/Hair_Top_mid.002
+    m_Weight: 1
+  - m_Path: Skeleton_P09_Hair_13/Constraint_Head/Hair_Side_Root/Hair_Top_mid.001/Hair_Top_mid.002/Hair_Top_mid.002_end
+    m_Weight: 1
+  - m_Path: SkinHead_Female
+    m_Weight: 1
+  - m_Path: SkinHead_Male
+    m_Weight: 1

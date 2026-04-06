@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d570e15a2d78324da3763cd8dff19ed, type: 3}
+  m_Name: WizardFire
+  m_EditorClassIdentifier: 
+  characterClass: 1280
+  classIcon: {fileID: 21300000, guid: d6b102a94b8ec7549b6106f19c443f84, type: 3}
+  className: WizardFire
+  maxHp: 100
+  maxStamina: 20
+  moveSpeed: 2.5
+  sprintSpeed: 3.5
+  normalAttackData: {fileID: 11400000, guid: e38a7f8463749c14589f7722ea7219e7, type: 2}
+  hardAttackData: {fileID: 11400000, guid: 0fb633f8d7a38de43b068c4e4c760129, type: 2}
+  skillDataSlots:
+  - {fileID: 11400000, guid: 1238d03cf02a6cd43bf79645d6b25b3d, type: 2}
+  - {fileID: 11400000, guid: 834b5692717ed7a44b209fbc0652512e, type: 2}
+  defenseData: {fileID: 11400000, guid: 20e42775862cce14c8cb9fbe0ce3bd30, type: 2}
+  dashData: {fileID: 11400000, guid: 99f6eda48407eea43810b6ef9eabad32, type: 2}

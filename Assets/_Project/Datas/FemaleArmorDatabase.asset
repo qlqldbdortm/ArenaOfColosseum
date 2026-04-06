@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047d697bc0b047128848714dd1bcc65c, type: 3}
+  m_Name: FemaleArmorDatabase
+  m_EditorClassIdentifier: 
+  gender: 0
+  armors:
+  - armorName: Armor_01
+    armorPrefab: {fileID: 329286797248775906, guid: 75cc3480cbd067348b149bc268fea47e,
+      type: 3}
+  - armorName: Armor_02
+    armorPrefab: {fileID: 4475288877110447407, guid: 1e467992c321a6246851f331577351af,
+      type: 3}
+  - armorName: Armor_03
+    armorPrefab: {fileID: 1920288563687253406, guid: 2b7c88cedd6323c428647fb63bc83947,
+      type: 3}
+  - armorName: Armor_04
+    armorPrefab: {fileID: 2735712391599429613, guid: d2b2679316f6bbe409da1e644e548b88,
+      type: 3}
+  - armorName: Armor_05
+    armorPrefab: {fileID: 8611426363261047539, guid: a3d69d8165b8c18449b64e323a6e5203,
+      type: 3}
+  - armorName: Armor_06
+    armorPrefab: {fileID: 7041269035623469909, guid: 047a7480d38706c40a372d2937686439,
+      type: 3}
+  - armorName: Armor_07
+    armorPrefab: {fileID: 9046231266038314987, guid: 30d3e7285d1b9854989aa3de19b84f63,
+      type: 3}
+  - armorName: Armor_08
+    armorPrefab: {fileID: 8175400863409836326, guid: 79262fc8ac859e94cae0367137ea0b18,
+      type: 3}
+  - armorName: Armor_09
+    armorPrefab: {fileID: 3904246220889250742, guid: 99fd82d906cc36d41a40c74cd87892de,
+      type: 3}
+  - armorName: Armor_10
+    armorPrefab: {fileID: 4014633344924774025, guid: 63d3c1809e324164c841501045976995,
+      type: 3}
+  - armorName: Armor_11
+    armorPrefab: {fileID: 4700770272360224338, guid: 8873f6afd79efcc4880f4d37439f61b1,
+      type: 3}
+  - armorName: Armor_12
+    armorPrefab: {fileID: 343323587003607231, guid: ea5ad54353fb4d1438d8b9f304c73315,
+      type: 3}
