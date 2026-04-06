@@ -97,3 +97,24 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Custom ignore
+[Nn]otShared/
+[Nn]otShared.meta
+Assets/_NotShared
+Assets/_NotShared.meta
+Assets/Firebase
+Assets/Firebase.meta
+Assets/StreamingAssets
+Assets/StreamingAssets.meta
+Assets/ExternalDependencyManager
+Assets/ExternalDependencyManager.meta
+
+Assets/Plugins
+Assets/Plugins.meta
+
+Assets/google-services.json
+Assets/google-services.json.meta
+Packages/jp.lilxyzw.liltoon
+Assets/_Project/Audios
+Assets/_Project/Arts
